@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "11.LateBindingDynamic/1.0.0": {
+        "dependencies": {
+          "07.ICar": "1.0.0"
+        },
+        "runtime": {
+          "11.LateBindingDynamic.dll": {}
+        }
+      },
+      "07.ICar/1.0.0": {
+        "runtime": {
+          "07.ICar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11.LateBindingDynamic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "07.ICar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

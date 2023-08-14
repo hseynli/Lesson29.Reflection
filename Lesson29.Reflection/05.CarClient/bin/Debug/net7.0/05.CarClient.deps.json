@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "05.CarClient/1.0.0": {
+        "dependencies": {
+          "04.CarLibrary": "1.0.0"
+        },
+        "runtime": {
+          "05.CarClient.dll": {}
+        }
+      },
+      "04.CarLibrary/1.0.0": {
+        "runtime": {
+          "04.CarLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05.CarClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "04.CarLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

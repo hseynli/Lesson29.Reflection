@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\bin\Debug\net7.0\13.Attributes.exe
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\bin\Debug\net7.0\13.Attributes.deps.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\bin\Debug\net7.0\13.Attributes.runtimeconfig.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\bin\Debug\net7.0\13.Attributes.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\bin\Debug\net7.0\13.Attributes.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\obj\Debug\net7.0\13.Attributes.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\obj\Debug\net7.0\13.Attributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\obj\Debug\net7.0\13.Attributes.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\obj\Debug\net7.0\13.Attributes.AssemblyInfo.cs
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\obj\Debug\net7.0\13.Attributes.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\obj\Debug\net7.0\13.Attributes.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\obj\Debug\net7.0\refint\13.Attributes.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\obj\Debug\net7.0\13.Attributes.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\obj\Debug\net7.0\13.Attributes.genruntimeconfig.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\13.Attributes\obj\Debug\net7.0\ref\13.Attributes.dll

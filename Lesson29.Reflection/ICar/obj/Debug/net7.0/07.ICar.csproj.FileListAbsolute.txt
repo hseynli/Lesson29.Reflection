@@ -1,0 +1,12 @@
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\bin\Debug\net7.0\07.ICar.deps.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\bin\Debug\net7.0\07.ICar.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\bin\Debug\net7.0\07.ICar.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\obj\Debug\net7.0\07.ICar.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\obj\Debug\net7.0\07.ICar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\obj\Debug\net7.0\07.ICar.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\obj\Debug\net7.0\07.ICar.AssemblyInfo.cs
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\obj\Debug\net7.0\07.ICar.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\obj\Debug\net7.0\07.ICar.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\obj\Debug\net7.0\refint\07.ICar.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\obj\Debug\net7.0\07.ICar.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\ICar\obj\Debug\net7.0\ref\07.ICar.dll

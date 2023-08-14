@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "10.LateBindingInterface/1.0.0": {
+        "dependencies": {
+          "08.CarLibrary": "1.0.0"
+        },
+        "runtime": {
+          "10.LateBindingInterface.dll": {}
+        }
+      },
+      "07.ICar/1.0.0": {
+        "runtime": {
+          "07.ICar.dll": {}
+        }
+      },
+      "08.CarLibrary/1.0.0": {
+        "dependencies": {
+          "07.ICar": "1.0.0"
+        },
+        "runtime": {
+          "08.CarLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10.LateBindingInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "07.ICar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "08.CarLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

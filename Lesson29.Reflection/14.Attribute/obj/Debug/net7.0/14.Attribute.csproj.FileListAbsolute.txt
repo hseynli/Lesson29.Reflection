@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\bin\Debug\net7.0\14.Attribute.exe
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\bin\Debug\net7.0\14.Attribute.deps.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\bin\Debug\net7.0\14.Attribute.runtimeconfig.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\bin\Debug\net7.0\14.Attribute.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\bin\Debug\net7.0\14.Attribute.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\obj\Debug\net7.0\14.Attribute.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\obj\Debug\net7.0\14.Attribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\obj\Debug\net7.0\14.Attribute.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\obj\Debug\net7.0\14.Attribute.AssemblyInfo.cs
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\obj\Debug\net7.0\14.Attribute.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\obj\Debug\net7.0\14.Attribute.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\obj\Debug\net7.0\refint\14.Attribute.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\obj\Debug\net7.0\14.Attribute.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\obj\Debug\net7.0\14.Attribute.genruntimeconfig.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\14.Attribute\obj\Debug\net7.0\ref\14.Attribute.dll

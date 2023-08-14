@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\obj\Debug\net7.0\08.CarLibrary.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\obj\Debug\net7.0\08.CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\obj\Debug\net7.0\08.CarLibrary.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\obj\Debug\net7.0\08.CarLibrary.AssemblyInfo.cs
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\obj\Debug\net7.0\08.CarLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\bin\Debug\net7.0\08.CarLibrary.deps.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\bin\Debug\net7.0\08.CarLibrary.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\bin\Debug\net7.0\08.CarLibrary.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\bin\Debug\net7.0\07.ICar.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\bin\Debug\net7.0\07.ICar.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\obj\Debug\net7.0\08.CarLibrary.csproj.CopyComplete
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\obj\Debug\net7.0\08.CarLibrary.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\obj\Debug\net7.0\refint\08.CarLibrary.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\obj\Debug\net7.0\08.CarLibrary.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\08.CarLibrary\obj\Debug\net7.0\ref\08.CarLibrary.dll

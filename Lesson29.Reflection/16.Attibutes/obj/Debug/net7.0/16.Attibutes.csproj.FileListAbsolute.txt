@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\bin\Debug\net7.0\16.Attibutes.exe
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\bin\Debug\net7.0\16.Attibutes.deps.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\bin\Debug\net7.0\16.Attibutes.runtimeconfig.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\bin\Debug\net7.0\16.Attibutes.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\bin\Debug\net7.0\16.Attibutes.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\obj\Debug\net7.0\16.Attibutes.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\obj\Debug\net7.0\16.Attibutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\obj\Debug\net7.0\16.Attibutes.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\obj\Debug\net7.0\16.Attibutes.AssemblyInfo.cs
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\obj\Debug\net7.0\16.Attibutes.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\obj\Debug\net7.0\16.Attibutes.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\obj\Debug\net7.0\refint\16.Attibutes.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\obj\Debug\net7.0\16.Attibutes.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\obj\Debug\net7.0\16.Attibutes.genruntimeconfig.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\16.Attibutes\obj\Debug\net7.0\ref\16.Attibutes.dll

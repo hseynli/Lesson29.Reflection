@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\bin\Debug\net7.0\02.TypeTest.exe
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\bin\Debug\net7.0\02.TypeTest.deps.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\bin\Debug\net7.0\02.TypeTest.runtimeconfig.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\bin\Debug\net7.0\02.TypeTest.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\bin\Debug\net7.0\02.TypeTest.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\obj\Debug\net7.0\02.TypeTest.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\obj\Debug\net7.0\02.TypeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\obj\Debug\net7.0\02.TypeTest.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\obj\Debug\net7.0\02.TypeTest.AssemblyInfo.cs
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\obj\Debug\net7.0\02.TypeTest.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\obj\Debug\net7.0\02.TypeTest.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\obj\Debug\net7.0\refint\02.TypeTest.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\obj\Debug\net7.0\02.TypeTest.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\obj\Debug\net7.0\02.TypeTest.genruntimeconfig.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\02.TypeTest\obj\Debug\net7.0\ref\02.TypeTest.dll

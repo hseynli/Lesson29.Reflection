@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\bin\Debug\net7.0\03.TypeInfo.exe
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\bin\Debug\net7.0\03.TypeInfo.deps.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\bin\Debug\net7.0\03.TypeInfo.runtimeconfig.json
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\bin\Debug\net7.0\03.TypeInfo.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\bin\Debug\net7.0\03.TypeInfo.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\obj\Debug\net7.0\03.TypeInfo.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\obj\Debug\net7.0\03.TypeInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\obj\Debug\net7.0\03.TypeInfo.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\obj\Debug\net7.0\03.TypeInfo.AssemblyInfo.cs
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\obj\Debug\net7.0\03.TypeInfo.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\obj\Debug\net7.0\03.TypeInfo.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\obj\Debug\net7.0\refint\03.TypeInfo.dll
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\obj\Debug\net7.0\03.TypeInfo.pdb
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\obj\Debug\net7.0\03.TypeInfo.genruntimeconfig.cache
+D:\Projects\Visual Studio Projects\Lesson29.Reflection\03.TypeInfo\obj\Debug\net7.0\ref\03.TypeInfo.dll
